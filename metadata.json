@@ -1,0 +1,5 @@
+{
+  "name": "Coal Trend Radar",
+  "description": "A real-time coal price monitoring and analysis dashboard with historical data visualization, simulated AI trend forecasting, and CSV export capabilities.",
+  "requestFramePermissions": []
+}
